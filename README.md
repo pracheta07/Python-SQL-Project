@@ -47,7 +47,7 @@ All data is stored in CSV format in the E-Commerce folder.
 
 # How to Run This Project
 
-1. Clone this repository: git clone <(https://github.com/pracheta07/Python-SQL-Project)>
+1. Clone this repository: git clone https://github.com/pracheta07/Python-SQL-Project
 2. Install Python 3.x and required libraries:
        pip install pandas mysql-connector-python matplotlib seaborn
 3. Create a MySQL database named ecommerce.
