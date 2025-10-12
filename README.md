@@ -33,7 +33,7 @@ All data is stored in CSV format in the E-Commerce folder.
 
 3. Data Analysis & Visualization: Write SQL queries in Python to extract business insights.
                               : Generate bar charts and statistical plots to visualize trends.
-# Key Insights
+# Insights to find
 
 1. List all unique cities where customers are located.
 2. Count the number of orders placed in 2017.
